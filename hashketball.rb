@@ -7,8 +7,8 @@ nds = {
   },
   away: {
     team_name:
-    colors:
-    players:
+    colors:[]
+    players: []
   }
 }  
 return nds  
