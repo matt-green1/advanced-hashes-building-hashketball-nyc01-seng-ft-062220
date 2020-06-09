@@ -110,7 +110,7 @@ nds = {
         :slam_dunks => 0
       },
       {
-        :player_name =>
+        :player_name => "Kemba Walker"
         :number =>
         :shoe =>
         :points =>
