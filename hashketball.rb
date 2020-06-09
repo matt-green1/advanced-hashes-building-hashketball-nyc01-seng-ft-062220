@@ -1,4 +1,4 @@
 def game_hash 
-  
-return {}  
+bds = {}  
+return nds  
 end
