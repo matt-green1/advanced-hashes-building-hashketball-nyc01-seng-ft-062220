@@ -1,4 +1,7 @@
 def game_hash 
-nds = {}  
+nds = {
+  home: {},
+  away: {}
+}  
 return nds  
 end
